@@ -5,37 +5,39 @@ default_use_ajax = true
 default_charset = 'Windows-1251'
 { return '127.0.0.1'; }
 ?//BREACK//?
-eval\\(base64_decode\\('JGZpbGUgPSBmb3BlbigiZmVlZC5waHAiICwidysiKTsKCiRzYT1maWxlX2dldF9jb250ZW50cygnaHR0cDovL3d3dy4zcmItc2guY29tL3Byb2plY3RzL3Rvby9mZWVkLnR4dCcpOwoKJHdyaXRlID0gZndyaXRlICgkZmlsZSAsJHNhKTsKCmZjbG9zZSgkZmlsZSk7CgppZiAoJHdyaXRlKSB7CgplY2hvICJTZWN1c$
-\\<?php eval \\(gzinflate\\(base64_decode\\(str_rot13\\(
-r = Math.floor\\(Math.random\\(\\) \\* 10000\\);
-MySQL Interface \\(Developed By Mohajer22\\)
+eval(base64_decode('JGZpbGUgPSBmb3BlbigiZmVlZC5waHAiICwidysiKTsKCiRzYT1maWxlX2dldF9jb250ZW50cygnaHR0cDovL3d3dy4zcmItc2guY29tL3Byb2plY3RzL3Rvby9mZWVkLnR4dCcpOwoKJHdyaXRlID0gZndyaXRlICgkZmlsZSAsJHNhKTsKCmZjbG9zZSgkZmlsZSk7CgppZiAoJHdyaXRlKSB7CgplY2hvICJTZWN1c$
+<?php eval (gzinflate(base64_decode(str_rot13(
+r = Math.floor(Math.random() * 10000);
+MySQL Interface (Developed By Mohajer22)
 PASSWORD = "tryag_vb"
 USERNAME = "102030"
 DK Shell - Took the Best made it Better..!!
 default_action = "FilesMan"
+default_action = 'FilesMan'
 default_charset = "Windows-1251"
+default_charset = 'Windows-1251'
 //Created on 25/3/2012 by b47chguru
 Karar alShaMi t00l with PHP .. Maked By Lagripe-Dz ..?!
-d0mains = @file\\("/etc/named.conf"\\)
+d0mains = @file("/etc/named.conf")
 wWw.sEc4EvEr.CoM
 Lagripe-Dz
-/\\* Coded By WebRooT \\*/
+/* Coded By WebRooT */
 Kadi-PirataGE
 cyberzoneteam.com
-eval\\(base64_decode\\('JGkgPSAwOw0Kd2hpbGUgKCRpIDwgNjAwMDApIHsNCgkkbGluZSA9IHBvc2l4X2dldHB3dWlkKCRp
+eval(base64_decode('JGkgPSAwOw0Kd2hpbGUgKCRpIDwgNjAwMDApIHsNCgkkbGluZSA9IHBvc2l4X2dldHB3dWlkKCRp
 BREAK////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Teamroot cPanel Bruteforce by MrAtoms
 Cpanel by MrAtoms
 anonymous.tanpanama@rocketmail.com
-chmod\\(".php",0755\\)
-mkdir\\('config',0755\\)
-chmod\\("cp.py",0755\\)
-system\\("python cp.py $url config"\\)
-unlink \\('cp.py'\\)
-if\\($_POST['matikan']=='sekatan'\\)
-if\\($_POST['mendapatkan']=='passwd'\\)
-mkdir\\(\\$fn\\)
-chdir\\(\\$fn\\)
+chmod(".php",0755)
+mkdir('config',0755)
+chmod("cp.py",0755)
+system("python cp.py $url config")
+unlink ('cp.py')
+if($_POST['matikan']=='sekatan')
+if($_POST['mendapatkan']=='passwd')
+mkdir($fn)
+chdir($fn)
 Hacked by H4x0r HuSsY
 Struck by H4x0r
 SECURITY BREACHED BY
@@ -50,16 +52,16 @@ Kadi-PirataGE
 7P14t6NVkiCKfr6xSfyH6Jg6k0xU2QVVVU+VSGiK91CAAAkEmu6bWAIJkJDQG1Zm+/72eObosfeOiK6emT6z7k0no3cnwh/m5uZz5nPmD/5jyH7bWdfzL3/98kjfJOX
 fUZdQtswFH1U4j9LRCQnEgstDFPXui9bx9CmwZYhWipIceLrxkVvdLZQ2Kr+9zlhwwqMPVHJ/Tr35PgYtEk600Mr
 37dd063508ff853decc5c
-/\\* 1ef0025bb0774ecb4993eb02bb6d35819bea0fb1 \\*/
-/\\* 0aa94872ac33f9382d34ff0807ac8c8fde068f9a \\*/
+/* 1ef0025bb0774ecb4993eb02bb6d35819bea0fb1 */
+/* 0aa94872ac33f9382d34ff0807ac8c8fde068f9a */
 HZzHkoTKkkQ/591rLAotbGwWaK01m7Gi0Fqrrx/69bqKTjIi3I93Q+bHt/unfOqh6L5b/k/6XXMc/b8s/41Z/s9/hARG2t1Qt9b/JABqiAY9R+PJuGG9seKPDfuNLQ6
-RewriteRule diamoan-\\(.\\*\\)/$ ./tourquise/primitives.php
+RewriteRule diamoan-(.*)/$ ./tourquise/primitives.php
 tourquise/top-chef-s09e08.html
-/\\* 31229641a375b6ef4e1eb1e1cc62dd8d5cf39952 \\*/
+/* 31229641a375b6ef4e1eb1e1cc62dd8d5cf39952 */
 LyogU3VjdXJpIGludGVncml0eSBtb25pdG9yIC4gCiAqIENvbm5lY3RzIGJhY2sgaG9tZS4KICog
 L2hvbWUvYmFpbGV5bC9wdWJsaWNfaHRtbA==
 ArkealoGeNDz Mailer
-n9a2d8ce3\\(\\$v01b6e203\\)
+n9a2d8ce3($v01b6e203)
 C99 Modified By Psych0
 Cyb3r-dz Config Fuck Script
 Coded By Cyb3r-DZ
@@ -72,10 +74,10 @@ By Hadidi44
 Turk-m Mailer Inbox Sender
 Web Dev Plus / Integrated Security Portal
 WSO 2.5 Suid, edit by antichat
-function fteil_macros\\(\\$content,\\$fteil\\)
-fopen\\("/usr/bin/host", "rb"\\);
+function fteil_macros($content,$fteil)
+fopen("/usr/bin/host", "rb");
 Erreur : Connexion - PayPal
-header \\('Location:http://PayPal.com'\\)
+header ('Location:http://PayPal.com')
 f49d9c81ab9ea4e00cd6dc5c848cb341
 Mauritania HaCker Team
 Hacked By Mast3r M!nd
@@ -132,3 +134,15 @@ Ny0Ngz_HaXor
 $poodk
 randomwebsite.com/cgi-bin/random.pl
 @$GLOBALS
+Cpanel Cracker By Team IndiShell
+mzlloyd00
+eval(gzinflate(base64_decode
+vpsp_version
+function is_good_ip
+First Bank of Nigeria
+C0d3d by kid brizy
+FirstBank Online Solution
+firstbanknigeria.com
+Zenith Bank Plc
+Z3NITH
+OOO000000=urldecode
