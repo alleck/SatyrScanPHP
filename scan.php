@@ -26,7 +26,7 @@ echo "</pre>";
 foreach ($fileArray as $files){
 
     // Exclude the Virusdb.txt from the scan results
-    if (strcmp($files, ".\Virusdb.txt") !== 0 and strcmp($files, ".\Virusdb.txt") !== 0)
+    if (strcmp($files, "." . DIRECTORY_SEPARATOR . "Virusdb.txt") !== 0 and strcmp($files, "." . DIRECTORY_SEPARATOR . "virusdb.txt") !== 0)
     {
         $file = file_get_contents($files);
         foreach ($viruses as $virus)
